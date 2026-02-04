@@ -26,7 +26,5 @@ git clone https://github.com/Oyekanmi123/Tip-Calculator.git
 3. Open `index.html` in your browser
 
 
-
----
-
-*Day 2 of my frontend development journey - built as part of my 30-day learning challenge.*
+## Live Demo
+[Click here to see the live demo] (https://oyekanmi123.github.io/Tip-Calculator/)
